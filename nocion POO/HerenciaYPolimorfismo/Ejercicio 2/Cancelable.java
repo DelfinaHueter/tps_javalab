@@ -1,4 +1,4 @@
-package Actividad2;
+package HerenciaYPolimorfismo;
 
 interface Cancelable {
     void cancelarPago();
