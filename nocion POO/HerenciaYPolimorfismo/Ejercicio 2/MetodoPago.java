@@ -1,4 +1,4 @@
-package Actividad2;
+package HerenciaYPolimorfismo;
 
 abstract class MetodoPago {
     protected String titular;
