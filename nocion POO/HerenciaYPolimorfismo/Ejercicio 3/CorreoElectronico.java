@@ -1,4 +1,4 @@
-package SistemaNotificacion;
+package HerenciaYPolimorfismo;
 
 public class CorreoElectronico extends CanalNotificacion implements Personalizable {
     private String direccionCorreo;
