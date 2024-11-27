@@ -1,4 +1,4 @@
-package Actividad1;
+package HerenciaYPolimorfismo;
 
 // Clase abstracta Vuelo
 abstract class Vuelo {
