@@ -1,4 +1,4 @@
-package SistemaNotificacion;
+package HerenciaYPolimorfismo;
 
 public abstract class CanalNotificacion {
     protected String usuario;
