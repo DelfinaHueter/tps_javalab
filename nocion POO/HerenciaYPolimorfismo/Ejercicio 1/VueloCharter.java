@@ -1,4 +1,4 @@
-package Actividad1;
+package HerenciaYPolimorfismo;
 
 // Clase VueloCharter
 class VueloCharter extends Vuelo implements Promocionable {
