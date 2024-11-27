@@ -1,4 +1,4 @@
-package Actividad2;
+package HerenciaYPolimorfismo;
 
 import java.util.ArrayList;
 
