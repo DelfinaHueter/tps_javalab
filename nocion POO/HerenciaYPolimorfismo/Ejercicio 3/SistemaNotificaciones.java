@@ -1,13 +1,13 @@
-package SistemaNotificacion;
+package HerenciaYPolimorfismo;
 
 public class SistemaNotificaciones {
     public static void main(String[] args) {
         Notificaciones notificaciones = new Notificaciones();
 
         CorreoElectronico correo = new CorreoElectronico(
-                "Juan Pérez", "Bienvenido a nuestro servicio", "juan.perez@gmail.com");
+                "Delfina Hueter", "Bienvenido a nuestro servicio", "delfinahueter@gmail.com");
         MensajeTexto mensajeTexto = new MensajeTexto(
-                "María López", "Tu código de verificación es 1234", "1122334455");
+                "Gerónimo Guevara", "Tu código de verificación es 4986", "2390598346");
 
         notificaciones.agregarCanal(correo);
         notificaciones.agregarCanal(mensajeTexto);
