@@ -1,4 +1,4 @@
-package Actividad2;
+package HerenciaYPolimorfismo;
 
 class TarjetaCredito extends MetodoPago implements Cancelable {
     private String fechaExpiracion;
