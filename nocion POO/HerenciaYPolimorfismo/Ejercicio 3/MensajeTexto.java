@@ -1,4 +1,4 @@
-package SistemaNotificacion;
+package HerenciaYPolimorfismo;
 
 public class MensajeTexto extends CanalNotificacion implements Personalizable {
     private String numeroTelefono;
