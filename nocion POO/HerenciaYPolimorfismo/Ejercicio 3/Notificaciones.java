@@ -1,4 +1,4 @@
-package SistemaNotificacion;
+package HerenciaYPolimorfismo;
 
 import java.util.ArrayList;
 
