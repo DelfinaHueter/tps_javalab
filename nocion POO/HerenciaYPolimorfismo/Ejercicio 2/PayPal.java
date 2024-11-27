@@ -1,4 +1,4 @@
-package Actividad2;
+package HerenciaYPolimorfismo;
 
 class PayPal extends MetodoPago implements Cancelable {
     private String correoElectronico;
