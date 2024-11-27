@@ -1,4 +1,4 @@
-package Actividad1;
+package HerenciaYPolimorfismo;
 
 // Clase SistemaReservas (main)
 public class SistemaReservas {
