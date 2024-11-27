@@ -1,6 +1,5 @@
-package Actividad2;
+package HerenciaYPolimorfismo;
 
-// Clase SistemadePagos (main)
 public class SistemadePagos {
     public static void main(String[] args) {
         Pagos pagos = new Pagos();
