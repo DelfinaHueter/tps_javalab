@@ -1,4 +1,4 @@
-package Actividad1;
+package HerenciaYPolimorfismo;
 
 // Clase Reservas
 import java.util.ArrayList;
